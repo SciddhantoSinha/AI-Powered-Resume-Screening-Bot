@@ -1,0 +1,16 @@
+Job Title: Junior Software Developer
+
+Required Skills:
+Java
+Python
+SQL
+Git
+Object-Oriented Programming
+Data Structures
+REST APIs
+
+Education:
+B.Tech in Computer Science or related field
+
+Experience:
+0-2 years
