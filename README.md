@@ -137,7 +137,7 @@ Before running the project, make sure the following are installed:
 - Place resume PDF files inside the `Input` folder.
 - Open `Main.xaml`.
 - Run the workflow.
-- The bot reads the invoice using OCR.
+- The bot reads the resume using OCR.
 - Required skills are matched against the extracted resume text.
 - The skill-match percentage is calculated.
 - Candidates with a match of 60% or above are shortlisted.
